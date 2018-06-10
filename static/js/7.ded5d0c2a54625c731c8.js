@@ -1,0 +1,2 @@
+webpackJsonp([7],{"196/":function(t,n){},QlWu:function(t,n,e){"use strict";Object.defineProperty(n,"__esModule",{value:!0});var i={render:function(){var t=this.$createElement,n=this._self._c||t;return n("div",[n("Button",{on:{click:this.login}},[this._v("登录")])],1)},staticRenderFns:[]};var o=e("VU/8")({name:"login",data:function(){return{}},mounted:function(){},methods:{login:function(){this.$router.push("/edc")}}},i,!1,function(t){e("196/")},"data-v-234d704b",null);n.default=o.exports}});
+//# sourceMappingURL=7.ded5d0c2a54625c731c8.js.map

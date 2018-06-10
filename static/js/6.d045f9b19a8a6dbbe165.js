@@ -1,0 +1,2 @@
+webpackJsonp([6],{n2wg:function(e,n,t){"use strict";Object.defineProperty(n,"__esModule",{value:!0});var a={render:function(){var e=this.$createElement;return(this._self._c||e)("div",[this._v("\n  loboratoryManage\n")])},staticRenderFns:[]};var r=t("VU/8")({name:""},a,!1,function(e){t("peTZ")},"data-v-2600a28f",null);n.default=r.exports},peTZ:function(e,n){}});
+//# sourceMappingURL=6.d045f9b19a8a6dbbe165.js.map
